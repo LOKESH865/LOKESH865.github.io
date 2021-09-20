@@ -1,7 +1,7 @@
-# Employee Management System Database
+# Office Collaborator System Database
 
 Hello There, It is a simple university project of database course. I have made a simple UI and basic SQL commands to make this project.
-Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
+Created with help of YouTube, Google, GitHub,free templates on the internet and so on. 
 
 ## This site features:
 ### Admin Panel:
@@ -21,9 +21,9 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 * CSS
 * Javascript
 * My SQL
+* Php
 
-### ER Diagram and Relational Schema is also provided as PDF's. 
-
+ 
 ## Istallation Guide:
 1. Clone the whole repository to your localhost folder.
 2. Launch XAMPP (or any other similar service) and start Apache, My SQL
@@ -37,9 +37,7 @@ ID: admin
 Pass: admin
 
 ### User Panel:
-ID: User's Email Address
-
+ID: mohan@xyz.com
 Pass: 1234 (By Default, User can change if they wish)
 
 
-Ignore the noob level coding. ^_^
